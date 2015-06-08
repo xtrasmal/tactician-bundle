@@ -54,13 +54,5 @@
     "branch-alias": {
       "dev-master": "1.0-dev"
     }
-  },
-  "require-dev": {
-    "symfony/validator": "~2.3",
-    "phpunit/phpunit": "~4.5",
-    "mockery/mockery": "0.9.*",
-    "scrutinizer/ocular": "~1.1",
-    "matthiasnoback/symfony-config-test": "~1.0",
-    "matthiasnoback/symfony-dependency-injection-test": "^0.7"
   }
 }
