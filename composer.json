@@ -40,7 +40,7 @@
       },
   ],  
   "require" : {
-    "php":  ">=5.3"
+    "php":  ">=5.3",
     "xtrasmal/tactician": "^0.6",
     "xtrasmal/tactician-doctrine": "^0.6",
     "symfony/framework-bundle": "~2.3"
