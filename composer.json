@@ -28,10 +28,21 @@
   "license" : [
     "MIT"
   ],
+  "repositories": 
+  [
+      {
+          "type": "vcs",
+          "url": "http://github.com/xtrasmal/tactician"
+      },
+      {
+          "type": "vcs",
+          "url": "http://github.com/xtrasmal/tactician-doctrine"
+      },
+  ],  
   "require" : {
     "php":  ">=5.3"
-    "league/tactician": "^0.6",
-    "league/tactician-doctrine": "^0.6",
+    "xtrasmal/tactician": "^0.6",
+    "xtrasmal/tactician-doctrine": "^0.6",
     "symfony/framework-bundle": "~2.3"
   },
   "autoload" : {
