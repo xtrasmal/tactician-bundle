@@ -37,7 +37,7 @@
       {
           "type": "vcs",
           "url": "http://github.com/xtrasmal/tactician-doctrine"
-      },
+      }
   ],  
   "require" : {
     "php":  ">=5.3",
